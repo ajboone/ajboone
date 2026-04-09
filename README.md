@@ -1,7 +1,8 @@
 # Hey, I'm A.J. 👋
 I am a Data Science student at the College of Charleston with a focus on AI engineering. I enjoy turning messy data into meaningful insights using Python, SQL, and tools like pandas and XGBoost. 
 ## Favorite Hobbies & Interests :brain: : 
-- Football 
+- Football ![alt text](![123-1231159_miami-dolphins-logo-miami-dolphins-old-logo](https://github.com/user-attachments/assets/e829cf16-92d4-47bc-a762-3763b862d2db)
+)
 - One Piece 
 - RPGs 
 - Super Smash Bros 
