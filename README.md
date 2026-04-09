@@ -1,5 +1,5 @@
 ## Hey, I'm A.J. 👋
-
+I am a data scientist
 <!--
 **ajboone/ajboone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
