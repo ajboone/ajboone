@@ -1,7 +1,6 @@
 ## Hey, I'm A.J. 👋
-Data Science student at the College of Charleston with a focus on AI engineering. I enjoy turning messy data into meaningful insights using Python, SQL, and tools like pandas and XGBoost. 
----------------------------------------------------------------------------------
-# Favorite Hobbies & Interests: 
+I am a Data Science student at the College of Charleston with a focus on AI engineering. I enjoy turning messy data into meaningful insights using Python, SQL, and tools like pandas and XGBoost. 
+# Favorite Hobbies & Interests :brain: : 
 - Football 
 - One Piece 
 - RPGs 
