@@ -1,5 +1,14 @@
 ## Hey, I'm A.J. 👋
-I am a data scientist
+Data Science student at the College of Charleston with a focus on AI engineering. I enjoy turning messy data into meaningful insights using Python, SQL, and tools like pandas and XGBoost. 
+---------------------------------------------------------------------------------
+Favorite Hobbies & Interests: 
+Football <img width="840" height="848" alt="image" src="https://github.com/user-attachments/assets/603cd11b-489f-4d43-9e0b-8c4dc3dda467" />
+One Piece 
+RPGs 
+Super Smash Bros 
+Horror movies
+
+Welcome to my world!
 <!--
 **ajboone/ajboone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
