@@ -1,5 +1,5 @@
 # Hey, I'm A.J. 👋
-I am a Data Science student at the College of Charleston with a focus on AI engineering. I enjoy turning messy data into meaningful insights using Python, SQL, and tools like pandas and XGBoost. 
+I am a Data Science student at the College of Charleston with a focus on AI engineering. I enjoy turning messy data into meaningful insights using Python, SQL, and tools like pandas and XGBoost. Add me on linked in at https://www.linkedin.com/in/aaron-boone-jr/
 ## Favorite Hobbies & Interests :brain: : 
 - Football <img src="Miami-Dolphins-Logo-PNG.png" width="20"/>
 - One Piece <img src="https://static.wikia.nocookie.net/characters/images/0/00/Straw_Hat_Pirates.jpg/revision/latest?cb=20171210212554" width="20"/>
