@@ -2,10 +2,10 @@
 I am a Data Science student at the College of Charleston with a focus on AI engineering. I enjoy turning messy data into meaningful insights using Python, SQL, and tools like pandas and XGBoost. 
 ## Favorite Hobbies & Interests :brain: : 
 - Football <img src="Miami-Dolphins-Logo-PNG.png" width="20"/>
-- One Piece 
-- RPGs 
-- Super Smash Bros 
-- Horror movies
+- One Piece <img src="https://static.wikia.nocookie.net/characters/images/0/00/Straw_Hat_Pirates.jpg/revision/latest?cb=20171210212554" width="20"/>
+- RPGs <img src="https://upload.wikimedia.org/wikipedia/en/9/9d/Slime_%28Dragon_Quest%29.png" width= "20"/> 
+- Super Smash Bros <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Smash_Ball.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" width="20"/>
+- Horror movies  <img src="https://www.veraseyecandy.com/cdn/shop/files/artclownstiker2_grande.jpg?v=1750806441" width="23"/>
 
 Welcome to my world!
 <!--
